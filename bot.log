@@ -1,0 +1,495 @@
+2026-07-19 19:19:46,211 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 19:19:46,212 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 19:19:46,213 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 19:19:46,214 | INFO     | __main__ | 📁 Фото существует: False
+2026-07-19 19:19:50,275 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 19:19:50,401 | INFO     | __main__ | ✅ База данных инициализирована (схема v1)
+2026-07-19 19:19:50,402 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 19:19:50,423 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:20:54,617 | INFO     | aiogram.event | Update id=948614951 is handled. Duration 219 ms by bot id=8683980142
+2026-07-19 19:21:13,272 | INFO     | aiogram.event | Update id=948614952 is handled. Duration 3452 ms by bot id=8683980142
+2026-07-19 19:21:15,482 | INFO     | aiogram.event | Update id=948614953 is handled. Duration 171 ms by bot id=8683980142
+2026-07-19 19:21:17,535 | INFO     | aiogram.event | Update id=948614954 is handled. Duration 422 ms by bot id=8683980142
+2026-07-19 19:21:22,217 | INFO     | aiogram.event | Update id=948614955 is handled. Duration 156 ms by bot id=8683980142
+2026-07-19 19:21:23,877 | INFO     | aiogram.event | Update id=948614956 is handled. Duration 125 ms by bot id=8683980142
+2026-07-19 19:21:25,998 | INFO     | aiogram.event | Update id=948614957 is handled. Duration 155 ms by bot id=8683980142
+2026-07-19 19:21:26,857 | INFO     | aiogram.event | Update id=948614958 is handled. Duration 155 ms by bot id=8683980142
+2026-07-19 19:21:27,788 | INFO     | aiogram.event | Update id=948614959 is handled. Duration 156 ms by bot id=8683980142
+2026-07-19 19:21:29,429 | INFO     | aiogram.event | Update id=948614960 is handled. Duration 187 ms by bot id=8683980142
+2026-07-19 19:21:30,504 | INFO     | aiogram.event | Update id=948614961 is handled. Duration 141 ms by bot id=8683980142
+2026-07-19 19:21:34,030 | INFO     | aiogram.event | Update id=948614962 is handled. Duration 155 ms by bot id=8683980142
+2026-07-19 19:21:35,531 | INFO     | aiogram.event | Update id=948614963 is handled. Duration 155 ms by bot id=8683980142
+2026-07-19 19:21:38,697 | INFO     | aiogram.event | Update id=948614964 is handled. Duration 187 ms by bot id=8683980142
+2026-07-19 19:21:44,812 | INFO     | aiogram.event | Update id=948614965 is handled. Duration 47 ms by bot id=8683980142
+2026-07-19 19:22:35,079 | INFO     | aiogram.event | Update id=948614967 is handled. Duration 77 ms by bot id=8683980142
+2026-07-19 19:22:48,686 | INFO     | aiogram.event | Update id=948614966 is handled. Duration 15203 ms by bot id=8683980142
+2026-07-19 19:22:51,589 | INFO     | aiogram.event | Update id=948614968 is handled. Duration 141 ms by bot id=8683980142
+2026-07-19 19:23:19,033 | INFO     | aiogram.event | Update id=948614969 is handled. Duration 186 ms by bot id=8683980142
+2026-07-19 19:23:32,041 | INFO     | aiogram.event | Update id=948614970 is handled. Duration 94 ms by bot id=8683980142
+2026-07-19 19:23:36,294 | INFO     | aiogram.event | Update id=948614971 is handled. Duration 125 ms by bot id=8683980142
+2026-07-19 19:23:40,879 | INFO     | aiogram.event | Update id=948614972 is handled. Duration 94 ms by bot id=8683980142
+2026-07-19 19:23:42,980 | INFO     | aiogram.event | Update id=948614973 is handled. Duration 125 ms by bot id=8683980142
+2026-07-19 19:23:48,138 | INFO     | aiogram.event | Update id=948614974 is handled. Duration 109 ms by bot id=8683980142
+2026-07-19 19:23:50,005 | INFO     | aiogram.event | Update id=948614975 is handled. Duration 327 ms by bot id=8683980142
+2026-07-19 19:23:52,398 | INFO     | aiogram.event | Update id=948614976 is handled. Duration 77 ms by bot id=8683980142
+2026-07-19 19:23:57,132 | INFO     | aiogram.event | Update id=948614977 is handled. Duration 93 ms by bot id=8683980142
+2026-07-19 19:23:59,306 | INFO     | aiogram.event | Update id=948614978 is handled. Duration 109 ms by bot id=8683980142
+2026-07-19 19:24:07,594 | INFO     | aiogram.event | Update id=948614979 is handled. Duration 516 ms by bot id=8683980142
+2026-07-19 19:26:32,049 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:26:32,050 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 19:26:36,940 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 19:26:36,941 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 19:26:36,942 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 19:26:36,943 | INFO     | __main__ | 📁 Фото существует: False
+2026-07-19 19:26:40,332 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 19:26:40,352 | INFO     | __main__ | ✅ База данных инициализирована (схема v1)
+2026-07-19 19:26:40,353 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 19:26:40,375 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:26:52,221 | INFO     | aiogram.event | Update id=948614980 is handled. Duration 3250 ms by bot id=8683980142
+2026-07-19 19:28:24,156 | INFO     | aiogram.event | Update id=948614981 is handled. Duration 218 ms by bot id=8683980142
+2026-07-19 19:28:27,084 | INFO     | aiogram.event | Update id=948614982 is handled. Duration 219 ms by bot id=8683980142
+2026-07-19 19:28:29,451 | INFO     | aiogram.event | Update id=948614983 is handled. Duration 155 ms by bot id=8683980142
+2026-07-19 19:29:35,945 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:29:35,946 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 19:29:41,172 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 19:29:41,173 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 19:29:41,174 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 19:29:41,175 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 19:29:41,175 | INFO     | __main__ | 📁 Размер фото: 213550 bytes
+2026-07-19 19:29:41,416 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 19:29:41,427 | INFO     | __main__ | ✅ База данных инициализирована (схема v1)
+2026-07-19 19:29:41,428 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 19:29:41,445 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:29:45,438 | INFO     | aiogram.event | Update id=948614984 is handled. Duration 422 ms by bot id=8683980142
+2026-07-19 19:30:20,294 | INFO     | aiogram.event | Update id=948614985 is handled. Duration 3375 ms by bot id=8683980142
+2026-07-19 19:31:12,011 | INFO     | aiogram.event | Update id=948614986 is handled. Duration 343 ms by bot id=8683980142
+2026-07-19 19:31:16,792 | INFO     | aiogram.event | Update id=948614987 is handled. Duration 188 ms by bot id=8683980142
+2026-07-19 19:31:18,150 | INFO     | aiogram.event | Update id=948614988 is handled. Duration 250 ms by bot id=8683980142
+2026-07-19 19:31:19,387 | INFO     | aiogram.event | Update id=948614989 is handled. Duration 171 ms by bot id=8683980142
+2026-07-19 19:31:20,494 | INFO     | aiogram.event | Update id=948614990 is handled. Duration 234 ms by bot id=8683980142
+2026-07-19 19:31:21,274 | INFO     | aiogram.event | Update id=948614991 is handled. Duration 155 ms by bot id=8683980142
+2026-07-19 19:31:22,654 | INFO     | aiogram.event | Update id=948614992 is handled. Duration 250 ms by bot id=8683980142
+2026-07-19 19:31:23,387 | INFO     | aiogram.event | Update id=948614993 is handled. Duration 140 ms by bot id=8683980142
+2026-07-19 19:31:30,166 | INFO     | aiogram.event | Update id=948614994 is handled. Duration 281 ms by bot id=8683980142
+2026-07-19 19:31:33,150 | INFO     | aiogram.event | Update id=948614995 is handled. Duration 172 ms by bot id=8683980142
+2026-07-19 19:31:34,328 | INFO     | aiogram.event | Update id=948614996 is handled. Duration 219 ms by bot id=8683980142
+2026-07-19 19:45:51,953 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:45:51,953 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 19:45:58,003 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 19:45:58,005 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 19:45:58,006 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 19:45:58,007 | INFO     | __main__ | 📁 Фото существует: False
+2026-07-19 19:46:01,550 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 19:46:01,566 | INFO     | __main__ | ✅ База данных инициализирована (схема v1)
+2026-07-19 19:46:01,566 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 19:46:01,597 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:46:01,814 | INFO     | aiogram.event | Update id=948614997 is handled. Duration 172 ms by bot id=8683980142
+2026-07-19 19:46:04,571 | INFO     | aiogram.event | Update id=948614998 is handled. Duration 125 ms by bot id=8683980142
+2026-07-19 19:46:25,190 | INFO     | aiogram.event | Update id=948614999 is handled. Duration 187 ms by bot id=8683980142
+2026-07-19 19:47:30,701 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:47:30,702 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 19:47:36,008 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 19:47:36,009 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 19:47:36,010 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 19:47:36,011 | INFO     | __main__ | 📁 Фото существует: False
+2026-07-19 19:47:36,255 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 19:47:36,276 | INFO     | __main__ | ✅ База данных инициализирована (схема v1)
+2026-07-19 19:47:36,277 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 19:47:36,295 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:48:45,816 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:48:45,816 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 19:48:50,488 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 19:48:50,488 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 19:48:50,488 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 19:48:50,488 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 19:48:50,488 | INFO     | __main__ | 📁 Размер фото: 286084 bytes
+2026-07-19 19:49:11,804 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 19:49:11,818 | INFO     | __main__ | ✅ База данных инициализирована (схема v1)
+2026-07-19 19:49:11,819 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 19:49:11,837 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 19:49:12,109 | INFO     | aiogram.event | Update id=948615001 is handled. Duration 202 ms by bot id=8683980142
+2026-07-19 19:49:12,542 | INFO     | aiogram.event | Update id=948615000 is handled. Duration 641 ms by bot id=8683980142
+2026-07-19 19:49:18,177 | INFO     | aiogram.event | Update id=948615002 is handled. Duration 156 ms by bot id=8683980142
+2026-07-19 19:50:31,933 | INFO     | aiogram.event | Update id=948615003 is handled. Duration 3422 ms by bot id=8683980142
+2026-07-19 19:50:42,381 | INFO     | aiogram.event | Update id=948615004 is handled. Duration 265 ms by bot id=8683980142
+2026-07-19 19:50:47,163 | INFO     | aiogram.event | Update id=948615005 is handled. Duration 140 ms by bot id=8683980142
+2026-07-19 19:50:50,372 | INFO     | aiogram.event | Update id=948615006 is handled. Duration 219 ms by bot id=8683980142
+2026-07-19 19:59:03,060 | INFO     | aiogram.event | Update id=948615007 is handled. Duration 3500 ms by bot id=8683980142
+2026-07-19 19:59:09,566 | INFO     | aiogram.event | Update id=948615008 is handled. Duration 234 ms by bot id=8683980142
+2026-07-19 19:59:10,659 | INFO     | aiogram.event | Update id=948615009 is handled. Duration 297 ms by bot id=8683980142
+2026-07-19 20:05:59,024 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:05:59,026 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 20:07:06,276 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 20:07:06,287 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 20:07:06,288 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 20:07:06,291 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 20:07:06,294 | INFO     | __main__ | 📁 Размер фото: 286084 bytes
+2026-07-19 20:07:09,951 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 20:07:10,265 | ERROR    | asyncio | Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000279631F6500>
+2026-07-19 20:07:10,271 | ERROR    | asyncio | Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x00000279631CB640>, 1294492.593)]']
+connector: <aiohttp.connector.TCPConnector object at 0x00000279631F63B0>
+2026-07-19 20:07:10,273 | ERROR    | asyncio | Fatal error on SSL transport
+protocol: <asyncio.sslproto.SSLProtocol object at 0x00000279631F6980>
+transport: <_ProactorSocketTransport fd=576 read=<_OverlappedFuture cancelled>>
+Traceback (most recent call last):
+  File "C:\Users\Liya\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 690, in _process_write_backlog
+    self._transport.write(chunk)
+  File "C:\Users\Liya\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 365, in write
+    self._loop_writing(data=bytes(data))
+  File "C:\Users\Liya\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 401, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+AttributeError: 'NoneType' object has no attribute 'send'
+2026-07-19 20:07:42,193 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 20:07:42,195 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 20:07:42,197 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 20:07:42,198 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 20:07:42,200 | INFO     | __main__ | 📁 Размер фото: 286084 bytes
+2026-07-19 20:07:45,845 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 20:07:46,126 | ERROR    | asyncio | Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000152E5946560>
+2026-07-19 20:07:46,129 | ERROR    | asyncio | Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x00000152E591B640>, 1294528.484)]']
+connector: <aiohttp.connector.TCPConnector object at 0x00000152E5946410>
+2026-07-19 20:07:46,131 | ERROR    | asyncio | Fatal error on SSL transport
+protocol: <asyncio.sslproto.SSLProtocol object at 0x00000152E59469E0>
+transport: <_ProactorSocketTransport fd=668 read=<_OverlappedFuture cancelled>>
+Traceback (most recent call last):
+  File "C:\Users\Liya\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 690, in _process_write_backlog
+    self._transport.write(chunk)
+  File "C:\Users\Liya\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 365, in write
+    self._loop_writing(data=bytes(data))
+  File "C:\Users\Liya\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 401, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+AttributeError: 'NoneType' object has no attribute 'send'
+2026-07-19 20:10:41,220 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 20:10:41,222 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 20:10:41,224 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 20:10:41,226 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 20:10:41,228 | INFO     | __main__ | 📁 Размер фото: 286084 bytes
+2026-07-19 20:10:44,861 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 20:10:45,160 | ERROR    | asyncio | Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001ECFFD36E30>
+2026-07-19 20:10:45,163 | ERROR    | asyncio | Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001ECFFD0B700>, 1294707.5)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001ECFFD36CE0>
+2026-07-19 20:10:45,166 | ERROR    | asyncio | Fatal error on SSL transport
+protocol: <asyncio.sslproto.SSLProtocol object at 0x000001ECFFD372B0>
+transport: <_ProactorSocketTransport fd=464 read=<_OverlappedFuture cancelled>>
+Traceback (most recent call last):
+  File "C:\Users\Liya\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 690, in _process_write_backlog
+    self._transport.write(chunk)
+  File "C:\Users\Liya\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 365, in write
+    self._loop_writing(data=bytes(data))
+  File "C:\Users\Liya\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 401, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+AttributeError: 'NoneType' object has no attribute 'send'
+2026-07-19 20:14:35,104 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 20:14:35,106 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 20:14:35,108 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 20:14:35,109 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 20:14:35,112 | INFO     | __main__ | 📁 Размер фото: 286084 bytes
+2026-07-19 20:14:38,966 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 20:14:38,978 | INFO     | __main__ | 📊 Текущая версия схемы БД: 1
+2026-07-19 20:14:38,989 | INFO     | __main__ | 🔄 Миграция: добавляем колонку language...
+2026-07-19 20:14:39,032 | INFO     | __main__ | ✅ Колонка language добавлена
+2026-07-19 20:14:39,075 | INFO     | __main__ | ✅ База данных инициализирована (схема v2)
+2026-07-19 20:14:39,077 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 20:14:39,105 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:14:39,389 | INFO     | aiogram.event | Update id=948615011 is handled. Duration 171 ms by bot id=8683980142
+2026-07-19 20:14:39,630 | INFO     | aiogram.event | Update id=948615012 is handled. Duration 405 ms by bot id=8683980142
+2026-07-19 20:14:39,648 | INFO     | aiogram.event | Update id=948615010 is handled. Duration 452 ms by bot id=8683980142
+2026-07-19 20:14:45,660 | INFO     | aiogram.event | Update id=948615013 is handled. Duration 172 ms by bot id=8683980142
+2026-07-19 20:14:47,283 | INFO     | aiogram.event | Update id=948615014 is handled. Duration 280 ms by bot id=8683980142
+2026-07-19 20:14:51,763 | INFO     | aiogram.event | Update id=948615015 is handled. Duration 171 ms by bot id=8683980142
+2026-07-19 20:14:52,988 | INFO     | aiogram.event | Update id=948615016 is handled. Duration 202 ms by bot id=8683980142
+2026-07-19 20:14:58,832 | INFO     | aiogram.event | Update id=948615017 is handled. Duration 2827 ms by bot id=8683980142
+2026-07-19 20:15:00,433 | INFO     | aiogram.event | Update id=948615018 is handled. Duration 531 ms by bot id=8683980142
+2026-07-19 20:15:03,213 | INFO     | aiogram.event | Update id=948615019 is handled. Duration 2500 ms by bot id=8683980142
+2026-07-19 20:15:03,720 | INFO     | aiogram.event | Update id=948615020 is handled. Duration 563 ms by bot id=8683980142
+2026-07-19 20:16:45,076 | INFO     | aiogram.event | Update id=948615021 is handled. Duration 3452 ms by bot id=8683980142
+2026-07-19 20:17:52,351 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-07-19 20:17:52,353 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8683980142)
+2026-07-19 20:18:04,426 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.166.110', 443)]
+2026-07-19 20:18:04,429 | WARNING  | aiogram.dispatcher | Sleep for 1.294851 seconds and try again... (tryings = 1, bot id = 8683980142)
+2026-07-19 20:18:05,742 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.166.110', 443)]
+2026-07-19 20:18:05,744 | WARNING  | aiogram.dispatcher | Sleep for 1.770829 seconds and try again... (tryings = 2, bot id = 8683980142)
+2026-07-19 20:18:07,526 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.166.110', 443)]
+2026-07-19 20:18:07,528 | WARNING  | aiogram.dispatcher | Sleep for 2.197780 seconds and try again... (tryings = 3, bot id = 8683980142)
+2026-07-19 20:18:09,734 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.166.110', 443)]
+2026-07-19 20:18:09,736 | WARNING  | aiogram.dispatcher | Sleep for 2.747778 seconds and try again... (tryings = 4, bot id = 8683980142)
+2026-07-19 20:18:12,489 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.166.110', 443)]
+2026-07-19 20:18:12,491 | WARNING  | aiogram.dispatcher | Sleep for 3.896890 seconds and try again... (tryings = 5, bot id = 8683980142)
+2026-07-19 20:18:16,399 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:18:16,400 | WARNING  | aiogram.dispatcher | Sleep for 5.004610 seconds and try again... (tryings = 6, bot id = 8683980142)
+2026-07-19 20:18:21,419 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:18:21,422 | WARNING  | aiogram.dispatcher | Sleep for 4.985882 seconds and try again... (tryings = 7, bot id = 8683980142)
+2026-07-19 20:18:26,413 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:18:26,415 | WARNING  | aiogram.dispatcher | Sleep for 4.829883 seconds and try again... (tryings = 8, bot id = 8683980142)
+2026-07-19 20:18:31,256 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:18:31,258 | WARNING  | aiogram.dispatcher | Sleep for 5.086165 seconds and try again... (tryings = 9, bot id = 8683980142)
+2026-07-19 20:18:36,364 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:18:36,366 | WARNING  | aiogram.dispatcher | Sleep for 4.932421 seconds and try again... (tryings = 10, bot id = 8683980142)
+2026-07-19 20:18:41,317 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:18:41,318 | WARNING  | aiogram.dispatcher | Sleep for 4.916351 seconds and try again... (tryings = 11, bot id = 8683980142)
+2026-07-19 20:18:46,251 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:18:46,253 | WARNING  | aiogram.dispatcher | Sleep for 5.052449 seconds and try again... (tryings = 12, bot id = 8683980142)
+2026-07-19 20:18:51,312 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:18:51,314 | WARNING  | aiogram.dispatcher | Sleep for 5.113421 seconds and try again... (tryings = 13, bot id = 8683980142)
+2026-07-19 20:18:56,436 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:18:56,437 | WARNING  | aiogram.dispatcher | Sleep for 4.889067 seconds and try again... (tryings = 14, bot id = 8683980142)
+2026-07-19 20:19:01,344 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:01,346 | WARNING  | aiogram.dispatcher | Sleep for 5.100902 seconds and try again... (tryings = 15, bot id = 8683980142)
+2026-07-19 20:19:06,460 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:06,462 | WARNING  | aiogram.dispatcher | Sleep for 4.800767 seconds and try again... (tryings = 16, bot id = 8683980142)
+2026-07-19 20:19:11,279 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:11,280 | WARNING  | aiogram.dispatcher | Sleep for 5.087328 seconds and try again... (tryings = 17, bot id = 8683980142)
+2026-07-19 20:19:16,380 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:16,382 | WARNING  | aiogram.dispatcher | Sleep for 4.848780 seconds and try again... (tryings = 18, bot id = 8683980142)
+2026-07-19 20:19:21,247 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:21,249 | WARNING  | aiogram.dispatcher | Sleep for 5.117424 seconds and try again... (tryings = 19, bot id = 8683980142)
+2026-07-19 20:19:26,385 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:26,386 | WARNING  | aiogram.dispatcher | Sleep for 5.014178 seconds and try again... (tryings = 20, bot id = 8683980142)
+2026-07-19 20:19:31,415 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:31,417 | WARNING  | aiogram.dispatcher | Sleep for 4.885085 seconds and try again... (tryings = 21, bot id = 8683980142)
+2026-07-19 20:19:36,316 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:36,318 | WARNING  | aiogram.dispatcher | Sleep for 5.025757 seconds and try again... (tryings = 22, bot id = 8683980142)
+2026-07-19 20:19:41,352 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:41,355 | WARNING  | aiogram.dispatcher | Sleep for 4.843403 seconds and try again... (tryings = 23, bot id = 8683980142)
+2026-07-19 20:19:46,218 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:46,220 | WARNING  | aiogram.dispatcher | Sleep for 5.057358 seconds and try again... (tryings = 24, bot id = 8683980142)
+2026-07-19 20:19:51,291 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:51,293 | WARNING  | aiogram.dispatcher | Sleep for 4.884040 seconds and try again... (tryings = 25, bot id = 8683980142)
+2026-07-19 20:19:56,191 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:19:56,193 | WARNING  | aiogram.dispatcher | Sleep for 4.961462 seconds and try again... (tryings = 26, bot id = 8683980142)
+2026-07-19 20:20:01,163 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:01,166 | WARNING  | aiogram.dispatcher | Sleep for 4.677106 seconds and try again... (tryings = 27, bot id = 8683980142)
+2026-07-19 20:20:05,850 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:05,853 | WARNING  | aiogram.dispatcher | Sleep for 4.984733 seconds and try again... (tryings = 28, bot id = 8683980142)
+2026-07-19 20:20:10,844 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:10,846 | WARNING  | aiogram.dispatcher | Sleep for 5.044162 seconds and try again... (tryings = 29, bot id = 8683980142)
+2026-07-19 20:20:15,905 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:15,906 | WARNING  | aiogram.dispatcher | Sleep for 5.104638 seconds and try again... (tryings = 30, bot id = 8683980142)
+2026-07-19 20:20:21,019 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:21,021 | WARNING  | aiogram.dispatcher | Sleep for 4.957980 seconds and try again... (tryings = 31, bot id = 8683980142)
+2026-07-19 20:20:25,990 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:25,991 | WARNING  | aiogram.dispatcher | Sleep for 4.872776 seconds and try again... (tryings = 32, bot id = 8683980142)
+2026-07-19 20:20:30,883 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:30,885 | WARNING  | aiogram.dispatcher | Sleep for 4.977773 seconds and try again... (tryings = 33, bot id = 8683980142)
+2026-07-19 20:20:35,877 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:35,885 | WARNING  | aiogram.dispatcher | Sleep for 5.048368 seconds and try again... (tryings = 34, bot id = 8683980142)
+2026-07-19 20:20:40,954 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:40,956 | WARNING  | aiogram.dispatcher | Sleep for 5.098145 seconds and try again... (tryings = 35, bot id = 8683980142)
+2026-07-19 20:20:46,064 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:46,065 | WARNING  | aiogram.dispatcher | Sleep for 5.073731 seconds and try again... (tryings = 36, bot id = 8683980142)
+2026-07-19 20:20:51,157 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:51,159 | WARNING  | aiogram.dispatcher | Sleep for 4.858573 seconds and try again... (tryings = 37, bot id = 8683980142)
+2026-07-19 20:20:56,028 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:20:56,030 | WARNING  | aiogram.dispatcher | Sleep for 5.021107 seconds and try again... (tryings = 38, bot id = 8683980142)
+2026-07-19 20:21:01,069 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:01,070 | WARNING  | aiogram.dispatcher | Sleep for 5.151789 seconds and try again... (tryings = 39, bot id = 8683980142)
+2026-07-19 20:21:06,238 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:06,240 | WARNING  | aiogram.dispatcher | Sleep for 5.061208 seconds and try again... (tryings = 40, bot id = 8683980142)
+2026-07-19 20:21:11,322 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:11,323 | WARNING  | aiogram.dispatcher | Sleep for 5.190272 seconds and try again... (tryings = 41, bot id = 8683980142)
+2026-07-19 20:21:16,541 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:16,543 | WARNING  | aiogram.dispatcher | Sleep for 4.981149 seconds and try again... (tryings = 42, bot id = 8683980142)
+2026-07-19 20:21:21,535 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:21,537 | WARNING  | aiogram.dispatcher | Sleep for 4.978294 seconds and try again... (tryings = 43, bot id = 8683980142)
+2026-07-19 20:21:26,532 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:26,533 | WARNING  | aiogram.dispatcher | Sleep for 5.095355 seconds and try again... (tryings = 44, bot id = 8683980142)
+2026-07-19 20:21:31,647 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:31,648 | WARNING  | aiogram.dispatcher | Sleep for 4.893903 seconds and try again... (tryings = 45, bot id = 8683980142)
+2026-07-19 20:21:36,560 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:36,562 | WARNING  | aiogram.dispatcher | Sleep for 5.042342 seconds and try again... (tryings = 46, bot id = 8683980142)
+2026-07-19 20:21:41,615 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:41,616 | WARNING  | aiogram.dispatcher | Sleep for 5.130237 seconds and try again... (tryings = 47, bot id = 8683980142)
+2026-07-19 20:21:46,767 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:46,772 | WARNING  | aiogram.dispatcher | Sleep for 4.967213 seconds and try again... (tryings = 48, bot id = 8683980142)
+2026-07-19 20:21:51,745 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:51,746 | WARNING  | aiogram.dispatcher | Sleep for 5.157986 seconds and try again... (tryings = 49, bot id = 8683980142)
+2026-07-19 20:21:56,915 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:21:56,917 | WARNING  | aiogram.dispatcher | Sleep for 5.163078 seconds and try again... (tryings = 50, bot id = 8683980142)
+2026-07-19 20:22:02,094 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:02,096 | WARNING  | aiogram.dispatcher | Sleep for 4.887484 seconds and try again... (tryings = 51, bot id = 8683980142)
+2026-07-19 20:22:07,000 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:07,002 | WARNING  | aiogram.dispatcher | Sleep for 4.996076 seconds and try again... (tryings = 52, bot id = 8683980142)
+2026-07-19 20:22:12,019 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:12,021 | WARNING  | aiogram.dispatcher | Sleep for 4.943906 seconds and try again... (tryings = 53, bot id = 8683980142)
+2026-07-19 20:22:16,978 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:16,980 | WARNING  | aiogram.dispatcher | Sleep for 4.953409 seconds and try again... (tryings = 54, bot id = 8683980142)
+2026-07-19 20:22:21,957 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:21,958 | WARNING  | aiogram.dispatcher | Sleep for 4.976036 seconds and try again... (tryings = 55, bot id = 8683980142)
+2026-07-19 20:22:26,941 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:26,942 | WARNING  | aiogram.dispatcher | Sleep for 4.975124 seconds and try again... (tryings = 56, bot id = 8683980142)
+2026-07-19 20:22:31,908 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:31,910 | WARNING  | aiogram.dispatcher | Sleep for 5.054018 seconds and try again... (tryings = 57, bot id = 8683980142)
+2026-07-19 20:22:36,981 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:36,982 | WARNING  | aiogram.dispatcher | Sleep for 5.003727 seconds and try again... (tryings = 58, bot id = 8683980142)
+2026-07-19 20:22:42,000 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:42,001 | WARNING  | aiogram.dispatcher | Sleep for 5.038332 seconds and try again... (tryings = 59, bot id = 8683980142)
+2026-07-19 20:22:47,050 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:47,051 | WARNING  | aiogram.dispatcher | Sleep for 5.025620 seconds and try again... (tryings = 60, bot id = 8683980142)
+2026-07-19 20:22:52,096 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:52,097 | WARNING  | aiogram.dispatcher | Sleep for 5.029225 seconds and try again... (tryings = 61, bot id = 8683980142)
+2026-07-19 20:22:57,138 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:22:57,141 | WARNING  | aiogram.dispatcher | Sleep for 5.052435 seconds and try again... (tryings = 62, bot id = 8683980142)
+2026-07-19 20:23:02,207 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:02,209 | WARNING  | aiogram.dispatcher | Sleep for 4.987554 seconds and try again... (tryings = 63, bot id = 8683980142)
+2026-07-19 20:23:07,209 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:07,211 | WARNING  | aiogram.dispatcher | Sleep for 5.133229 seconds and try again... (tryings = 64, bot id = 8683980142)
+2026-07-19 20:23:12,355 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:12,357 | WARNING  | aiogram.dispatcher | Sleep for 5.104579 seconds and try again... (tryings = 65, bot id = 8683980142)
+2026-07-19 20:23:17,476 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:17,478 | WARNING  | aiogram.dispatcher | Sleep for 4.971232 seconds and try again... (tryings = 66, bot id = 8683980142)
+2026-07-19 20:23:22,468 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:22,469 | WARNING  | aiogram.dispatcher | Sleep for 5.173001 seconds and try again... (tryings = 67, bot id = 8683980142)
+2026-07-19 20:23:27,653 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:27,655 | WARNING  | aiogram.dispatcher | Sleep for 5.094093 seconds and try again... (tryings = 68, bot id = 8683980142)
+2026-07-19 20:23:32,765 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:32,767 | WARNING  | aiogram.dispatcher | Sleep for 5.069060 seconds and try again... (tryings = 69, bot id = 8683980142)
+2026-07-19 20:23:37,856 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:37,859 | WARNING  | aiogram.dispatcher | Sleep for 5.181584 seconds and try again... (tryings = 70, bot id = 8683980142)
+2026-07-19 20:23:43,058 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:43,060 | WARNING  | aiogram.dispatcher | Sleep for 5.051804 seconds and try again... (tryings = 71, bot id = 8683980142)
+2026-07-19 20:23:48,122 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:48,124 | WARNING  | aiogram.dispatcher | Sleep for 5.093467 seconds and try again... (tryings = 72, bot id = 8683980142)
+2026-07-19 20:23:53,229 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:53,239 | WARNING  | aiogram.dispatcher | Sleep for 5.177429 seconds and try again... (tryings = 73, bot id = 8683980142)
+2026-07-19 20:23:58,437 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:23:58,439 | WARNING  | aiogram.dispatcher | Sleep for 5.029852 seconds and try again... (tryings = 74, bot id = 8683980142)
+2026-07-19 20:24:03,484 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:03,486 | WARNING  | aiogram.dispatcher | Sleep for 5.042085 seconds and try again... (tryings = 75, bot id = 8683980142)
+2026-07-19 20:24:08,539 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:08,541 | WARNING  | aiogram.dispatcher | Sleep for 4.953655 seconds and try again... (tryings = 76, bot id = 8683980142)
+2026-07-19 20:24:13,503 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:13,504 | WARNING  | aiogram.dispatcher | Sleep for 5.105285 seconds and try again... (tryings = 77, bot id = 8683980142)
+2026-07-19 20:24:18,620 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:18,622 | WARNING  | aiogram.dispatcher | Sleep for 4.926738 seconds and try again... (tryings = 78, bot id = 8683980142)
+2026-07-19 20:24:23,566 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:23,568 | WARNING  | aiogram.dispatcher | Sleep for 4.941891 seconds and try again... (tryings = 79, bot id = 8683980142)
+2026-07-19 20:24:28,527 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:28,529 | WARNING  | aiogram.dispatcher | Sleep for 4.974789 seconds and try again... (tryings = 80, bot id = 8683980142)
+2026-07-19 20:24:33,511 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:33,513 | WARNING  | aiogram.dispatcher | Sleep for 5.071556 seconds and try again... (tryings = 81, bot id = 8683980142)
+2026-07-19 20:24:38,600 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:38,601 | WARNING  | aiogram.dispatcher | Sleep for 4.981371 seconds and try again... (tryings = 82, bot id = 8683980142)
+2026-07-19 20:24:43,597 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:43,599 | WARNING  | aiogram.dispatcher | Sleep for 5.035498 seconds and try again... (tryings = 83, bot id = 8683980142)
+2026-07-19 20:24:48,646 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:48,648 | WARNING  | aiogram.dispatcher | Sleep for 5.027526 seconds and try again... (tryings = 84, bot id = 8683980142)
+2026-07-19 20:24:53,696 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:53,698 | WARNING  | aiogram.dispatcher | Sleep for 5.078908 seconds and try again... (tryings = 85, bot id = 8683980142)
+2026-07-19 20:24:58,798 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:24:58,799 | WARNING  | aiogram.dispatcher | Sleep for 4.976976 seconds and try again... (tryings = 86, bot id = 8683980142)
+2026-07-19 20:25:03,786 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:25:03,788 | WARNING  | aiogram.dispatcher | Sleep for 5.247370 seconds and try again... (tryings = 87, bot id = 8683980142)
+2026-07-19 20:25:09,050 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:25:09,052 | WARNING  | aiogram.dispatcher | Sleep for 5.121128 seconds and try again... (tryings = 88, bot id = 8683980142)
+2026-07-19 20:25:14,185 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:25:14,187 | WARNING  | aiogram.dispatcher | Sleep for 4.904766 seconds and try again... (tryings = 89, bot id = 8683980142)
+2026-07-19 20:25:19,103 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-07-19 20:25:19,104 | WARNING  | aiogram.dispatcher | Sleep for 5.107370 seconds and try again... (tryings = 90, bot id = 8683980142)
+2026-07-19 20:25:34,395 | INFO     | aiogram.dispatcher | Connection established (tryings = 91, bot id = 8683980142)
+2026-07-19 20:27:30,358 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:27:30,360 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 20:27:30,362 | INFO     | __main__ | 🧹 Очистка ресурсов...
+2026-07-19 20:27:30,622 | INFO     | __main__ | ✅ Сессия бота закрыта
+2026-07-19 20:27:30,635 | INFO     | __main__ | 🛑 Бот остановлен пользователем
+2026-07-19 20:27:42,128 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 20:27:42,130 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 20:27:42,132 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 20:27:42,133 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 20:27:42,136 | INFO     | __main__ | 📁 Размер фото: 286084 bytes
+2026-07-19 20:27:45,755 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 20:27:45,767 | INFO     | __main__ | 📊 Текущая версия схемы БД: 2
+2026-07-19 20:27:45,775 | INFO     | __main__ | ✅ Колонка language уже существует
+2026-07-19 20:27:45,836 | INFO     | __main__ | ✅ База данных инициализирована (схема v2)
+2026-07-19 20:27:45,838 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 20:27:45,872 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:27:53,067 | INFO     | aiogram.event | Update id=948615025 is handled. Duration 2343 ms by bot id=8683980142
+2026-07-19 20:27:56,335 | INFO     | aiogram.event | Update id=948615026 is handled. Duration 719 ms by bot id=8683980142
+2026-07-19 20:27:59,595 | INFO     | aiogram.event | Update id=948615027 is handled. Duration 250 ms by bot id=8683980142
+2026-07-19 20:28:01,571 | INFO     | aiogram.event | Update id=948615028 is handled. Duration 405 ms by bot id=8683980142
+2026-07-19 20:28:03,220 | INFO     | aiogram.event | Update id=948615029 is handled. Duration 235 ms by bot id=8683980142
+2026-07-19 20:28:05,001 | INFO     | aiogram.event | Update id=948615030 is handled. Duration 422 ms by bot id=8683980142
+2026-07-19 20:28:06,738 | INFO     | aiogram.event | Update id=948615031 is handled. Duration 405 ms by bot id=8683980142
+2026-07-19 20:28:10,466 | INFO     | aiogram.event | Update id=948615032 is handled. Duration 313 ms by bot id=8683980142
+2026-07-19 20:28:11,958 | INFO     | aiogram.event | Update id=948615033 is handled. Duration 202 ms by bot id=8683980142
+2026-07-19 20:28:14,888 | INFO     | aiogram.event | Update id=948615034 is handled. Duration 375 ms by bot id=8683980142
+2026-07-19 20:28:16,744 | INFO     | aiogram.event | Update id=948615035 is handled. Duration 266 ms by bot id=8683980142
+2026-07-19 20:28:19,427 | INFO     | aiogram.event | Update id=948615036 is handled. Duration 734 ms by bot id=8683980142
+2026-07-19 20:28:22,636 | INFO     | aiogram.event | Update id=948615037 is handled. Duration 327 ms by bot id=8683980142
+2026-07-19 20:28:24,432 | INFO     | aiogram.event | Update id=948615038 is handled. Duration 531 ms by bot id=8683980142
+2026-07-19 20:29:00,071 | INFO     | aiogram.event | Update id=948615039 is handled. Duration 6422 ms by bot id=8683980142
+2026-07-19 20:29:05,450 | INFO     | aiogram.event | Update id=948615040 is handled. Duration 672 ms by bot id=8683980142
+2026-07-19 20:29:06,902 | INFO     | aiogram.event | Update id=948615041 is handled. Duration 250 ms by bot id=8683980142
+2026-07-19 20:29:11,059 | INFO     | aiogram.event | Update id=948615042 is handled. Duration 375 ms by bot id=8683980142
+2026-07-19 20:29:12,677 | INFO     | aiogram.event | Update id=948615043 is handled. Duration 391 ms by bot id=8683980142
+2026-07-19 20:29:20,810 | INFO     | aiogram.event | Update id=948615044 is handled. Duration 2328 ms by bot id=8683980142
+2026-07-19 20:29:23,218 | INFO     | aiogram.event | Update id=948615045 is handled. Duration 656 ms by bot id=8683980142
+2026-07-19 20:31:36,557 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:31:36,559 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 20:31:36,560 | INFO     | __main__ | 🧹 Очистка ресурсов...
+2026-07-19 20:31:36,817 | INFO     | __main__ | ✅ Сессия бота закрыта
+2026-07-19 20:31:36,822 | INFO     | __main__ | 🛑 Бот остановлен пользователем
+2026-07-19 20:31:47,113 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 20:31:47,115 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 20:31:47,116 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 20:31:47,118 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 20:31:47,120 | INFO     | __main__ | 📁 Размер фото: 286084 bytes
+2026-07-19 20:31:50,947 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 20:31:50,960 | INFO     | __main__ | 📊 Текущая версия схемы БД: 2
+2026-07-19 20:31:50,969 | INFO     | __main__ | ✅ Колонка language уже существует
+2026-07-19 20:31:51,038 | INFO     | __main__ | ✅ База данных инициализирована (схема v2)
+2026-07-19 20:31:51,040 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 20:31:51,069 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:31:53,944 | INFO     | aiogram.event | Update id=948615046 is handled. Duration 531 ms by bot id=8683980142
+2026-07-19 20:31:56,062 | INFO     | aiogram.event | Update id=948615047 is handled. Duration 312 ms by bot id=8683980142
+2026-07-19 20:31:58,675 | INFO     | aiogram.event | Update id=948615048 is handled. Duration 172 ms by bot id=8683980142
+2026-07-19 20:32:00,406 | INFO     | aiogram.event | Update id=948615049 is handled. Duration 233 ms by bot id=8683980142
+2026-07-19 20:32:03,782 | INFO     | aiogram.event | Update id=948615050 is handled. Duration 280 ms by bot id=8683980142
+2026-07-19 20:32:06,240 | INFO     | aiogram.event | Update id=948615051 is handled. Duration 327 ms by bot id=8683980142
+2026-07-19 20:33:58,600 | INFO     | aiogram.event | Update id=948615052 is handled. Duration 3906 ms by bot id=8683980142
+2026-07-19 20:34:14,807 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:34:14,807 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 20:34:14,807 | INFO     | __main__ | 🧹 Очистка ресурсов...
+2026-07-19 20:34:15,073 | INFO     | __main__ | ✅ Сессия бота закрыта
+2026-07-19 20:34:15,082 | INFO     | __main__ | 🛑 Бот остановлен пользователем
+2026-07-19 20:35:38,327 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 20:35:38,329 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 20:35:38,330 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 20:35:38,332 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 20:35:38,333 | INFO     | __main__ | 📁 Размер фото: 286084 bytes
+2026-07-19 20:35:40,918 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 20:35:40,935 | INFO     | __main__ | 📊 Текущая версия схемы БД: 2
+2026-07-19 20:35:40,945 | INFO     | __main__ | ✅ Колонка language уже существует
+2026-07-19 20:35:41,006 | INFO     | __main__ | ✅ База данных инициализирована (схема v2)
+2026-07-19 20:35:41,007 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 20:35:41,044 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:35:41,536 | INFO     | aiogram.event | Update id=948615053 is handled. Duration 358 ms by bot id=8683980142
+2026-07-19 20:36:07,682 | INFO     | aiogram.event | Update id=948615054 is handled. Duration 5859 ms by bot id=8683980142
+2026-07-19 20:36:12,608 | INFO     | aiogram.event | Update id=948615055 is handled. Duration 296 ms by bot id=8683980142
+2026-07-19 20:36:26,188 | INFO     | aiogram.event | Update id=948615056 is handled. Duration 11125 ms by bot id=8683980142
+2026-07-19 20:37:38,361 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-19 20:37:38,363 | INFO     | __main__ | 🧹 Очистка ресурсов...
+2026-07-19 20:37:38,365 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:37:38,625 | INFO     | __main__ | ✅ Сессия бота закрыта
+2026-07-19 20:37:38,632 | INFO     | __main__ | 🛑 Бот остановлен пользователем
+2026-07-19 20:37:49,929 | INFO     | __main__ | 🚀 Запуск бота...
+2026-07-19 20:37:49,930 | INFO     | __main__ | 📁 Путь к скрипту: C:\soffe
+2026-07-19 20:37:49,932 | INFO     | __main__ | 📁 Путь к фото: C:\soffe\welcome.jpg
+2026-07-19 20:37:49,933 | INFO     | __main__ | 📁 Фото существует: True
+2026-07-19 20:37:49,935 | INFO     | __main__ | 📁 Размер фото: 286084 bytes
+2026-07-19 20:37:53,662 | INFO     | __main__ | ✅ Бот имеет права администратора в канале
+2026-07-19 20:37:53,690 | INFO     | __main__ | ✅ База данных инициализирована (схема v1)
+2026-07-19 20:37:53,694 | INFO     | aiogram.dispatcher | Start polling
+2026-07-19 20:37:53,716 | INFO     | aiogram.dispatcher | Run polling for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:38:24,822 | INFO     | aiogram.event | Update id=948615057 is handled. Duration 452 ms by bot id=8683980142
+2026-07-19 20:38:27,133 | INFO     | aiogram.event | Update id=948615058 is handled. Duration 452 ms by bot id=8683980142
+2026-07-19 20:38:28,101 | INFO     | aiogram.event | Update id=948615059 is handled. Duration 280 ms by bot id=8683980142
+2026-07-19 20:38:43,743 | INFO     | aiogram.event | Update id=948615060 is handled. Duration 280 ms by bot id=8683980142
+2026-07-19 20:38:45,094 | INFO     | aiogram.event | Update id=948615061 is handled. Duration 297 ms by bot id=8683980142
+2026-07-19 20:40:17,554 | INFO     | aiogram.dispatcher | Polling stopped for bot @Idcrashbot id=8683980142 - 'ID Crash bot'
+2026-07-19 20:40:17,555 | INFO     | aiogram.dispatcher | Polling stopped
