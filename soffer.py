@@ -4,6 +4,7 @@ import random
 import aiosqlite
 import os
 import time
+from aiohttp import web
 from datetime import datetime
 from collections import defaultdict
 from aiogram import Bot, Dispatcher, F, types
@@ -1529,6 +1530,24 @@ async def copy_ref_link(callback: CallbackQuery):
     await callback.answer("🔗 Ссылка готова для копирования! Выделите её в сообщении выше.", show_alert=True)
 
 
+# ==================== ВЕБ-СЕРВЕР ДЛЯ RENDER ====================
+# 🆕 ИСПРАВЛЕНИЕ: Render (Web Service) требует открытый порт, иначе
+# считает деплой зависшим и убивает процесс. Этот сервер ничего не делает,
+# кроме как отвечает "OK" — он просто нужен, чтобы Render видел живой порт.
+async def handle_health(request):
+    return web.Response(text="Bot is running")
+
+async def start_web_server():
+    app = web.Application()
+    app.router.add_get("/", handle_health)
+    runner = web.AppRunner(app)
+    await runner.setup()
+    port = int(os.environ.get("PORT", 10000))
+    site = web.TCPSite(runner, "0.0.0.0", port)
+    await site.start()
+    logger.info(f"🌐 Health-check сервер запущен на порту {port}")
+
+
 # ==================== ЗАПУСК ====================
 async def main():
     logger.info("🚀 Запуск бота...")
@@ -1550,7 +1569,12 @@ async def main():
         logger.error(f"❌ Не удалось проверить права в канале: {e}")
 
     await init_db()
-    await dp.start_polling(bot)
+
+    # 🆕 Запускаем веб-сервер (для Render) и бота (polling) ОДНОВРЕМЕННО
+    await asyncio.gather(
+        start_web_server(),
+        dp.start_polling(bot)
+    )
 
 if __name__ == "__main__":
     asyncio.run(main())
