@@ -55,8 +55,8 @@ WELCOME_PHOTO_PATH = os.path.join(SCRIPT_DIR, "welcome.jpg")
 ADMIN_IDS = [8631542994]
 
 # КАНАЛ ДЛЯ ОБЯЗАТЕЛЬНОЙ ПОДПИСКИ
-REQUIRED_CHANNEL_ID = "@idcrash"
-REQUIRED_CHANNEL_LINK = "https://t.me/idcrash"
+REQUIRED_CHANNEL_ID = "@snosgrad"
+REQUIRED_CHANNEL_LINK = "https://t.me/snosgrad"
 
 # ==================== ИНИЦИАЛИЗАЦИЯ ====================
 bot = Bot(token=BOT_TOKEN)
